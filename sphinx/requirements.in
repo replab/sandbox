@@ -9,3 +9,5 @@ jupyter_client
 octave-kernel
 nbsphinx
 jupytext
+sphinx-design
+
